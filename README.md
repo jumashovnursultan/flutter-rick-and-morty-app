@@ -94,6 +94,6 @@ dev_dependencies:
 
 ## 📱 Скриншоты
 
-![Главный экран](https://i.imgur.com/abcd123.png)
-![Избранное](https://i.imgur.com/efgh456.png)
-![Темная тема](https://i.imgur.com/ijkl789.png)
+| Главный экран | Избранное | Темная тема |
+|---------------|------------|--------------|
+| ![Главный экран](assets/screenshots/home.png) | ![Избранное](assets/screenshots/favorites.png) | ![Темная тема](assets/screenshots/dark_mode.png) |
