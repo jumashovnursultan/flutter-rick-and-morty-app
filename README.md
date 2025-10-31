@@ -39,8 +39,8 @@ lib/
 
 ### 1. Клонируйте репозиторий
 ```bash
-git clone <repository-url>
-cd rick_and_morty_app
+git clone https://github.com/jumashovnursultan/flutter-rick-and-morty-app
+cd flutter-rick-and-morty-app
 ```
 
 ### 2. Установите зависимости
